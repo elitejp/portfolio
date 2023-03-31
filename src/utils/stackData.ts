@@ -7,7 +7,7 @@ import imgPostgreSQL from "../images/logos/postgresql.svg";
 import imgPython from "../images/logos/python.svg";
 import imgReact from "../images/logos/react.svg";
 import imgStyled from "../images/logos/styled.svg";
-import imgTypeScript from "../images/logos/typecript.svg";
+import imgTypeScript from "../images/logos/typescript.svg";
 
 export const stackData = [
   { title: "HTML", img: imgHTML },
