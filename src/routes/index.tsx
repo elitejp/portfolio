@@ -3,7 +3,8 @@ import {
   createRoutesFromElements,
   createBrowserRouter,
 } from "react-router-dom";
-import Home from "../pages/Home";
+
+import Home from "@/pages/Home";
 
 const RoutesJSX = <Route path="/" element={<Home />}></Route>;
 
