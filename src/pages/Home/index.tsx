@@ -5,15 +5,6 @@ const Home: React.FC = () => {
   return (
     <>
       <h1>Home</h1>
-      {stackData.map((stack, index) => (
-        <img
-          key={index}
-          src={stack.img}
-          alt={stack.title}
-          height="84px"
-          width="84px"
-        />
-      ))}
     </>
   );
 };
