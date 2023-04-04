@@ -1,5 +1,5 @@
-import GlobalStyle from "@/styles/global";
-import router from "@/routes/index";
+import GlobalStyle from "styles/global";
+import router from "routes";
 
 import { RouterProvider } from "react-router-dom";
 
